@@ -1,0 +1,24 @@
+.header {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.content1 {
+    font-family: 'Do Hyeon', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.content2 {
+    font-family: 'Mouse Memoirs', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.content3 {
+    font-family: 'Play', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    
+}
